@@ -1,0 +1,63 @@
+form{
+    width: 500px;
+    margin: auto;
+    background: rgba(70, 69, 69, 0.561);
+    padding: 20px 5px;
+    box-sizing: border-box;
+    margin-top: 10px;
+    border-radius: 10px;
+    
+}
+
+input, textarea{
+    width: 97%;
+    margin-bottom: 20px;
+    padding: 5px;
+    box-sizing: border-box;
+    font-size: 17px;
+    border-radius: 5px;
+
+
+}
+
+#boton{
+    background: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    padding: 20px;
+}
+
+#boton:hover{
+    cursor: pointer;
+}
+
+@media(min-width:1024px){
+    form{
+        width: 50%;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
